@@ -3,4 +3,4 @@ Pure Julia implementation of End-To-End Memory Networks, introduced by Sainbayar
 * End-to-End Training: Unlike earlier Memory Networks, End-To-End Memory Networks can be trained with less supervision, making them more practical for real-world applications.
 * Multiple Computational Hops: The model can perform several steps of computation over the memory before producing an output, which enhances its reasoning capabilities.
 
-End-To-End Memory Networks (MemN2N) were indeed predecessors to the Transformer architecture. 
+End-To-End Memory Networks (MemN2N) were predecessors to the Transformer architecture. 
